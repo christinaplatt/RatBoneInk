@@ -1,0 +1,58 @@
+#header{
+	background-color: black;
+	width: 100%;
+	height: 485px;
+	position: relative;
+	border: 5px solid #663399;
+	
+}
+#header ul{
+	position: absolute;
+	right: 0px;
+	bottom: -15px;
+
+}
+li{
+	display: inline;
+	
+}
+.container img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 390px;
+	width: 600px;
+	position: center;
+}
+#rat{
+	height: 60px;
+	width: 60px;
+	list-style-type: none;
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px solid white;
+}
+#mail{
+	text-align: center;
+	font-size: 25px;
+}
+#butts{
+	margin-top: 40px;
+	height: 300px;
+	width: 300px;
+	border: 10px solid black;
+}
+h2{
+	text-shadow: 0 1px 0 #bbb,
+				0 2px 0 #bbb,
+				0 3px 0 #aaa,
+				0 4px 0 #aaa,
+				0 5px 0 #999,
+				0 6px 1px #999,
+				0 0px 3px #000,
+				0 1px 3px #000,
+				0 3px 5px #000,
+				0 5px 20px #000;
+	font-size: 50px;	
+
+}
