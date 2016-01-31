@@ -4,7 +4,7 @@ body{
 #header{
 	background-color: black;
 	width: 100%;
-	height: 485px;
+	height: 400px;
 	position: relative;
 	border: 5px solid #663399;
 	
@@ -27,7 +27,7 @@ li{
 	width: 600px;
 	position: center;
 }
-#rat{
+.rat{
 	height: 60px;
 	width: 60px;
 	list-style-type: none;
@@ -43,6 +43,7 @@ li{
 	margin-top: 40px;
 	height: 200px;
 	width: 200px;
+	position: relative;
 	border-style: inset;
 	border-width: 10px;
 	border-bottom-color: #383838;
