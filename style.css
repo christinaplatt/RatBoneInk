@@ -1,3 +1,6 @@
+body{
+	background-color: black;
+}
 #header{
 	background-color: black;
 	width: 100%;
@@ -36,23 +39,22 @@ li{
 	text-align: center;
 	font-size: 25px;
 }
-#butts{
+.butts{
 	margin-top: 40px;
-	height: 300px;
-	width: 300px;
-	border: 10px solid black;
+	height: 200px;
+	width: 200px;
+	border-style: inset;
+	border-width: 10px;
+	border-bottom-color: #383838;
+	border-left-color: #202020;
+	border-right-color: #202020;
+	border-top-color: #383838;
+	
+
 }
+
 h2{
-	text-shadow: 0 1px 0 #bbb,
-				0 2px 0 #bbb,
-				0 3px 0 #aaa,
-				0 4px 0 #aaa,
-				0 5px 0 #999,
-				0 6px 1px #999,
-				0 0px 3px #000,
-				0 1px 3px #000,
-				0 3px 5px #000,
-				0 5px 20px #000;
+	color: white;
 	font-size: 50px;	
 
 }
