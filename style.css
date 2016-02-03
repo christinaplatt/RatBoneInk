@@ -40,10 +40,12 @@ li{
 	font-size: 25px;
 }
 .butts{
-	margin-top: 40px;
+	margin-left: 40px;
+	margin-right: 60px;
 	height: 200px;
 	width: 200px;
 	position: relative;
+	padding: 75px;
 	border-style: inset;
 	border-width: 10px;
 	border-bottom-color: #383838;
