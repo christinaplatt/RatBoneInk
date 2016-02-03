@@ -82,8 +82,8 @@ h1{
 	float: left;
 	border-radius: 60%;
 	overflow: hidden;
-	width: 500px;
-	height: 500px;
+	width: 520px;
+	height: 520px;
 	margin-left: 50px;
 }
 	
@@ -95,11 +95,11 @@ h1{
 	filter: url(desaturate.svg#greyscale)
 
 }
-p{
+.zach{
 float: right;	
-text-align: center;
+/*text-align: center;*/
 color: #383838;
-width: 300px;
+width: 950px;
 font-size: 25px;
 margin-top: 50px;
 
