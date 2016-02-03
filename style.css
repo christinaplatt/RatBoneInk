@@ -68,20 +68,26 @@ li{
 h1{
 	color: #383838;
 	text-align: center;
-	font-size: 60px
+	font-size: 100px;
+	margin-bottom: 80px;
 		
 
+}
+.charlie{
+	margin-top: 0 auto;
+	margin-bottom: 25px;
+	text-align: center;
 }
 .reggie{
 	float: left;
 	border-radius: 60%;
 	overflow: hidden;
-	width: 480px;
-	height: 480px;
+	width: 500px;
+	height: 500px;
 	margin-left: 50px;
 }
 	
-#bun{
+.bun{
 	-webkit-filter: grayscale(1);
 	-webkit-filter: grayscale(100%);
 	filter: gray;
