@@ -85,6 +85,8 @@ h1{
 	width: 520px;
 	height: 520px;
 	margin-left: 50px;
+	margin-top: -5px;
+
 }
 	
 .bun{
@@ -101,6 +103,8 @@ float: right;
 color: #383838;
 width: 950px;
 font-size: 25px;
-margin-top: 50px;
+margin-top: -5px;
+margin-left: -50px;
+margin-right: 50px;
 
 }
